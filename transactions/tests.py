@@ -1,3 +1,3 @@
 from django.test import TestCase
 
-# Create your tests here.
+https://github.com/blockcypher/explorer/issues/555# Create your tests here.
