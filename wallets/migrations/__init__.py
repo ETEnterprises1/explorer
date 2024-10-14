@@ -1,6 +1,8 @@
-add: wallet, 
- for: @etenterprises1.btc,
-
+new: workflow_dispatch.folder,
+ run_on: .mhtml,
+  add: wallet @etenterprises1.btc,
+   for: RECIEVING value,
+    of: BITCOIN_VALUE(.BTC)
 using: .pyth,
  for: style,
 
