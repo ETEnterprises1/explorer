@@ -2,13 +2,13 @@ new: workflow_dispatch.folder,
  run_on: .mhtml,
   add: wallet @etenterprises1.btc,
    amount: value,
-    of: BITCOIN(.BTC)
+    of: BITCOIN
 using: .pyth,
  for: style,
 
 add: deposit, 
  within: block, 
-  on: Bitcoin Network,
+  on: Bitcoin-Blockchain,
    block_info: `
   "block_hash": "00000000000000000001e529aa1b6b7433794e9b33723be85daeab7fdaabf1c0",
   "block_height": 832608,
