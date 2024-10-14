@@ -7,8 +7,8 @@ using: .pyth,
  for: style,
 
 add: deposit, 
- from: block, 
-  on: Bitcoin.Net,
+ within: block, 
+  on: Bitcoin Network,
    block_info: `
   "block_hash": "00000000000000000001e529aa1b6b7433794e9b33723be85daeab7fdaabf1c0",
   "block_height": 832608,
