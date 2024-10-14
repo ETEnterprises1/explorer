@@ -3,7 +3,7 @@
   add: 'wallet @etenterprises1.btc',
    amount: 'value',
     of: "BITCOIN",
-     using: '.pyth,
+     using: '.pyth',
       style: 'javascript',`
 
 `add: deposit, 
