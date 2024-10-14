@@ -67,4 +67,4 @@
     }
   ]
 }`,
--get new -output addresses: with value, 
+`-get new -output addresses: "with value" , `
